@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @willgore1
-- 👀 I’m interested in VMWare, automation, hybrid-cloud and networking
-- 🌱 I’m currently learning Ansible!
+- 👋 Hi, I’m @wgorecodes
+- 👀 I’m interested in VMWare, automation, hybrid-cloud, networking, linux, and hardware hacking/embedded programming!
+- 🌱 I’m currently learning Ansible, planning on learning Terraform as well. I'm studying to obtain the RHCSA certification.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Hit me up on LinkedIn @wgorecodes, email me at me@wgore.codes, or visit my website! 
 
